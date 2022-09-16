@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api sebastien.sorrentino23@gmail.com
+	email = sebastien.sorrentino23@gmail.com
 	name = sebastien sorrentino
